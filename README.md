@@ -1,8 +1,8 @@
 # ¡Hola! Soy Iván Jiménez Tajuelo 😄
 
-### Desarrollador de Software | Especialidad en Ingeniería de Software
+### Estudiante de Ingeniería Informática | Desarrollador de Software
 
-Actualmente cursando el 4º año de Ingeniería Informática. 
+Actualmente estoy estudiando el 4º año, con especialidad en Ingeniería de Software.
 
 Me enfoco en crear herramientas robustas y escalables, desde aplicaciones de escritorio hasta utilidades CLI.
 
