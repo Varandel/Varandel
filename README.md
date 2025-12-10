@@ -1,10 +1,10 @@
 # ¡Hola! Soy Iván Jiménez Tajuelo 😄
 
-### Estudiante de Ingeniería Informática y Desarrollador de Software enfocado en soluciones que aportan valor.
+### Desarrollador de Software | Especialidad en Ingeniería de Software
 
-Soy un desarrollador de software con sólida formación en Ingeniería Informática y especialización en **Ingeniería de Software**. Me apasiona crear soluciones tecnológicas innovadoras que aporten valor real, combinando lógica, diseño y creatividad.
+Actualmente cursando el 4º año de Ingeniería Informática. 
 
-Actualmente, estoy cursando el **4º año** del Grado en Ingeniería Informática con especialidad en Ingeniería de Software.
+Me enfoco en crear herramientas robustas y escalables, desde aplicaciones de escritorio hasta utilidades CLI.
 
 ## Stack Tecnológico y Habilidades Clave
 
@@ -12,10 +12,10 @@ Mi experiencia se centra en el desarrollo de aplicaciones robustas, escalables y
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `Java` (principal), `C`, `Python`, `Typescript` |
+| **Lenguajes** | `Java`, `C`, `Python`, `Typescript` |
 | **Frameworks** | `Angular`, `Spring Boot`, `Maven` |
-| **Bases de Datos** | `MySQL`, `SQLServer`, `MongoDB`, `Postgresql`, `PL-SQL` |
-| **DevOps & Cloud** | `AWS`, `Docker`, **GitHub Actions** (CI/CD), `Azure DevOps`, `Sonarqube` |
+| **Bases de Datos** | `MySQL`, `SQLServer`, `MongoDB`, `PostgreSQL`, `PL-SQL` |
+| **DevOps & Cloud** | `AWS`, `Docker`, `GitHub Actions (CI/CD)`, `Azure DevOps`, `Sonarqube` |
 
 ---
 
@@ -38,6 +38,23 @@ Estos son algunos de mis proyectos más destacados:
 * Soporta normalización hasta **3FN/FNBC**.
 * Capaz de calcular claves principales y dependencias transitivas.
 * **Repositorio:** [Varandel/DBNormalizer](https://github.com/Varandel/DBNormalizer)
+
+---
+
+## Proyectos en Desarrollo
+
+Actualmente estoy trabajando en la conceptualización y prototipado de:
+
+* **Semaphy:** Algoritmo de rutas GPS que integra análisis predictivo para evitar semáforos en rojo en rutas secuenciales.
+  * A realizar en Java o Kotlin con SQLite.
+  * Calculará rutas para estimar cuándo es el mejor momento para salir, conociendo el ritmo habitual del usuario.
+  * Próximamente soportará las rutas en vehículos terrestres.
+
+* **Enforter:** Herramienta de análisis y visualización de datos para el seguimiento de ofertas y convocatorias FORTE por especialidades.
+  * A realizar con Python y SQLServer.
+  * Será posible instalarse una extensión del programa como servicio de Windows para ser notificado en caso de que una nueva convocatoria sea publicada.
+  * Proporcionará una visualización de los datos de cada convocatoria por especialidad, sueldo y ubicación.
+  * Próximamente tendrá soporte para diferentes formatos de convocatoria pdf.
 
 ---
 
